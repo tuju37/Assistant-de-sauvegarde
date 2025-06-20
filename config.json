@@ -1,0 +1,9 @@
+{
+    "sources": [],
+    "destinations": [],
+    "options": {
+        "compression": false,
+        "integrity_check": true,
+        "parallel_copies": 4
+    }
+}
